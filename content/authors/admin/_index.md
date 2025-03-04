@@ -39,9 +39,10 @@ education:
 first_name: Will
 highlight_name: true
 interests:
+- Statistical Inference
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Probability Theory
+- Experimental Design
 last_name: Quarles
 organizations:
 - name: U.S. Food and Drug Administration
