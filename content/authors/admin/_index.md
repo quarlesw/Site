@@ -26,72 +26,35 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: PhD Artificial Intelligence
+- area: PhD Nutritional Sciences
   button:
     text: Read Thesis
     url: https://example.com
   date_end: "2020-12-31"
   date_start: "2016-01-01"
-  institution: Stanford University
+  institution: Texas Tech University
   summary: |
     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: |
-    GPA: 3.8/4.0
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- area: BSc Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: |
-    GPA: 3.4/4.0
-
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-first_name: Shiung Wu
+first_name: Will
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-languages:
-- name: English
-  percent: 100
-- name: Chinese
-  percent: 75
-- name: Portuguese
-  percent: 25
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+last_name: Quarles
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: U.S. Food and Drug Administration
+  url: 
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
-- icon: brands/x
-  url: https://twitter.com/GetResearchDev
-- icon: brands/instagram
-  url: https://www.instagram.com/
+  url: mailto:williamrquarles@gmail.com
 - icon: brands/github
   url: https://github.com/gcushen
 - icon: brands/linkedin
   url: https://www.linkedin.com/
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/
-- icon: academicons/orcid
-  url: https://orcid.org/
-role: Chief Scientist
+role: Data Scientist
 skills:
 - items:
   - description: ""
@@ -124,9 +87,9 @@ skills:
     percent: 80
   name: Hobbies
 status:
-  icon: ☕️
+  icon:
 superuser: true
-title: 吳健雄
+title: William Quarles, PhD
 work:
 - company_logo: ""
   company_name: GenCoin
@@ -154,4 +117,10 @@ work:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Clinical Data Scientist at the FDA, and my passion is translating advanced analytics into life-changing health outcomes. From pioneering Bayesian approaches for low-frequency adverse events to rescuing messy data sets with multiple imputation (MICE), I thrive on taking high-stakes challenges and turning them into actionable insights that protect and improve patient well-being. My work has underpinned major regulatory decisions (even if I can’t discuss most of them) and earned me a Young Investigator Award for exploring how targeted nutrition interventions might enhance cognitive function in children facing food insecurity.\
+\
+Yet I don’t just crunch numbers—I champion a leadership philosophy inspired by deep work principles. I believe quality beats quantity every time, and that a supportive, focused team can achieve truly transformative results. Whether I’m guiding junior researchers, navigating complex regulatory landscapes, or engineering new data validation systems, I approach every project with a fierce commitment to rigor, clarity, and real-world impact.\
+\
+Over the years, I’ve proven I’m not afraid to dive into the messiness of clinical data—those grey areas where most statisticians tap out—and find solutions that shape policy. I’m here to push boundaries, from refining the ways we collect data to rethinking how we interpret it. My ultimate goal? To lead the charge in modernizing healthcare analytics, so that every piece of information gleaned from trials translates into genuine benefits for patients worldwide.\
+\
+If you’re looking for a forward-thinking data leader—someone as adept at advanced methodologies as at rallying teams toward a shared vision—I’m ready to deliver. Let’s unlock the full potential of data to create a healthier future, together.
